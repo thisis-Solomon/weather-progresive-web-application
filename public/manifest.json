@@ -5,10 +5,17 @@
         {
             "src": "/images/logo.png",
             "type": "/images/png",
-            "size": "512x512"
+            "size": "512x512",
+            "purpose":"maskable"
+        },
+        {
+            "src": "/images/logo.png",
+            "type": "/images/png",
+            "size": "192x192",
+            "purpose":"maskable"
         }
     ],
-    "start-url": ".",
+    "start_url": ".",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#fff"
